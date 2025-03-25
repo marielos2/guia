@@ -1,4 +1,4 @@
-///ejercicio 3.1
+///ejercicio 3
 const sum = (a, b) => a + b;
 console.log(sum(3, 4)); 
  

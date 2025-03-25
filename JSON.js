@@ -1,4 +1,4 @@
-//ejercicio 4.1
+//ejercicio 4
 const libro = {
     titulo: "los pajaritos",
     autor: "Marìa Lopez",
